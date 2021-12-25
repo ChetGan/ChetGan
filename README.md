@@ -1,7 +1,7 @@
 - 👋 Hello! I’m Chetan Ganipineni (@ChetGan). I am a CS student at Georgia Tech.
-- 👀 I’m interested in cybersecurity and Entrepreneurship!
-- 🌱 I’m currently learning about blockchain and system architecure.
-- 💞️ I’m looking to collaborate on trading bots or cybersecurity applications.
+- 👀 I’m interested in cybersecurity, e-commerce, Entrepreneurship!
+- 🌱 I’m currently learning about system architecure.
+- 💞️ I’m looking to collaborate on bots or on startup ideas!
 - 📫 -> cganipineni3@gatech.edu
 
 <!---
