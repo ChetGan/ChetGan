@@ -1,8 +1,7 @@
 <h2 align="center">👋 Hi! I'm Chetan Ganipineni.</h2>
 - I am a CS student at Georgia Tech.
-- 👀 I’m interested in cybersecurity, e-commerce, Entrepreneurship!
-- 🌱 I’m currently learning about system architecure.
-- 💞️ I’m looking to collaborate on bots or on startup ideas!
+- 🌱 I’m currently learning about cloud security, IaC, embedded programming.
+- 💞️ I’m looking to collaborate on startup ideas!
 - 📫 -> cganipineni3@gatech.edu
 
 <!---
