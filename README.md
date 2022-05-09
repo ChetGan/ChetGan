@@ -1,4 +1,4 @@
-- <h2 align="center">👋 Hi! I'm Chetan Ganipineni.</h2>
+<h2 align="center">👋 Hi! I'm Chetan Ganipineni.</h2>
 - I am a CS student at Georgia Tech.
 - 👀 I’m interested in cybersecurity, e-commerce, Entrepreneurship!
 - 🌱 I’m currently learning about system architecure.
